@@ -4,14 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NISAR DC-DC Converter Test Framework</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; }
-        h1, h2 { color: #2c3e50; }
-        code { background: #f4f4f4; padding: 2px 6px; border-radius: 4px; }
-        pre { background: #f4f4f4; padding: 10px; border-left: 3px solid #3498db; overflow-x: auto; }
-        ul { margin-bottom: 1em; }
-    </style>
+    <title> NISAR DC-DC Converter Test Framework </title>
 </head>
 <body>
     <h1>NISAR DC-DC Converter Test Framework</h1>
