@@ -38,6 +38,7 @@ cd nisar-dcdc-test</code></pre>
 ├── examples/
 │   └── run_demo.py          # Demo script
 ├── README.md
+├── Image
 ├── requirements.txt
 └── LICENSE</code></pre>
     <h2> License</h2>
