@@ -23,17 +23,17 @@
 
 ![NISAR DC-DC Test Setup](image/1747761062778.jpeg)
 
-*Figure 1: Block diagram of the NISAR DC-DC converter test setup.*
+*Figure 1: Algorithm diagram of the NISAR DC-DC converter test setup.*
     <h2> Getting Started</h2>
     <h3>Clone Repository</h3>
-    <pre><code>git clone https://github.com/&lt;your-username&gt;/nisar-dcdc-test.git
+    <pre><code>git clone https://github.com/&lt;omsinghindia&gt;/50V-DC-DC-Converter-DUT-BMC-For-Testing-and-Validation-Of-Radar-System-Components.git
 cd nisar-dcdc-test</code></pre>
     <h3>Install Dependencies</h3>
     <pre><code>pip install -r requirements.txt</code></pre>
     <h3>Run Demo</h3>
     <pre><code>python examples/run_demo.py</code></pre>
     <h2> Project Structure</h2>
-    <pre><code>nisar-dcdc-test/
+    <pre><code>50V-DC-DC-Converter-DUT-BMC-For-Testing-and-Validation-Of-Radar-System-Components/
 ├── src/
 │   ├── config.py            # Converter specifications
 │   ├── logger.py            # Logging utility
