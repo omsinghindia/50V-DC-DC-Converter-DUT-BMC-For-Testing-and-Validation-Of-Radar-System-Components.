@@ -1,0 +1,6 @@
+# No external dependencies required currently
+# Add below if you plan to include unit testing frameworks or others
+
+# For running tests with unittest (built-in, no install needed)
+# For pytest, uncomment the line below:
+# pytest>=7.0.0
