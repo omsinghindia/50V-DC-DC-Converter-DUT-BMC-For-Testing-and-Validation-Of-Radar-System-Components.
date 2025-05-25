@@ -21,7 +21,7 @@
     </ul>
     ## System Diagram
 
-![NISAR DC-DC Test Setup](images/)
+![NISAR DC-DC Test Setup](image/1747761062778.jpeg)
 
 *Figure 1: Block diagram of the NISAR DC-DC converter test setup.*
     <h2> Getting Started</h2>
