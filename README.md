@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> NISAR DC-DC Converter Test Framework </title>
+     NISAR DC-DC Converter Test Framework
 </head>
 <body>
     <h1>NISAR DC-DC Converter Test Framework</h1>
